@@ -62,8 +62,8 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=iDebugg&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="iDebugg's GitHub statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iDebugg&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Most-used languages" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=iDebugg&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="iDebugg's GitHub statistics" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=iDebugg&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Most-used languages" />
 </div>
 
 <div align="center">
