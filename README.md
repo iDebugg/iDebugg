@@ -1,83 +1,51 @@
-<div align="center">
-
 # Hi, I'm Aderibigbe Victor 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=2F81F7&center=true&vCenter=true&width=700&lines=Full-Stack+JavaScript+Developer;TypeScript+%7C+JavaScript+%7C+Python;Building+useful+products+for+the+web;Always+learning%2C+always+shipping)](https://git.io/typing-svg)
+**Frontend & Full-Stack JavaScript Developer · React · Next.js · TypeScript**
 
-<p>
-  <a href="https://github.com/iDebugg?tab=followers"><img src="https://img.shields.io/github/followers/iDebugg?label=Followers&style=for-the-badge&logo=github" alt="GitHub followers" /></a>
-  <img src="https://komarev.com/ghpvc/?username=iDebugg&style=for-the-badge&color=2f81f7" alt="Profile views" />
-</p>
+I build web applications, from React interfaces to Node.js APIs. My projects include an email campaign application and a learning and content management prototype. I also contribute to team repositories through pull requests.
 
-</div>
+**Open to frontend and full-stack opportunities, including junior roles and internships.**
 
-## 👨‍💻 About Me
+[Connect on LinkedIn](https://www.linkedin.com/in/victor-aderibigbe-a5a9b2279/) · [Explore my repositories](https://github.com/iDebugg?tab=repositories)
 
-- 🔭 I build modern web applications with **JavaScript** and **TypeScript**.
-- 🧩 I enjoy turning ideas into practical, user-focused products.
-- 🌱 I’m expanding my knowledge of **Python** and full-stack development.
-- 🚀 I’m currently working on projects including **PulseMail** and an **LMS/CMS platform**.
-- 🤝 I’m open to collaborating on interesting web and open-source projects.
-- 📫 Explore my work here on [GitHub](https://github.com/iDebugg?tab=repositories).
+## Selected projects
 
-## 🌐 Connect With Me
+### PulseMail — Email campaign application
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/victor-aderibigbe-a5a9b2279/"><img src="https://img.shields.io/badge/LinkedIn-Victor_Aderibigbe-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://x.com/theguyvictor_23"><img src="https://img.shields.io/badge/X-@theguyvictor__23-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  <a href="https://www.instagram.com/ad.mo.la/"><img src="https://img.shields.io/badge/Instagram-@ad.mo.la-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-</div>
+A web application for managing contacts and email campaigns, with separate frontend and backend codebases.
 
-## 🛠️ Languages & Tools
+- **Frontend:** React and Vite.
+- **Backend:** Node.js, Express, SQLite, JWT authentication, and Resend email API integration.
+- **Technical focus:** Connecting account, contact, and campaign data with an external email delivery service. My backend commits include migrating delivery from SMTP to the Resend HTTP API.
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,sass,react,nextjs,nodejs,git,github,vscode&perline=6" alt="JavaScript, TypeScript, Python, HTML, CSS, Sass, React, Next.js, Node.js, Git, GitHub and VS Code" />
-</div>
+[Frontend source](https://github.com/iDebugg/pulsemail-frontend) · [Backend source](https://github.com/iDebugg/PulseMail-backend)
 
-## 🚀 Featured Work
+### Von Newman Atlas — Learning & content management prototype
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center"><a href="https://github.com/iDebugg/PulseMail-backend">PulseMail Backend</a></h3>
-      <p align="center">The backend codebase for the PulseMail project.</p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><a href="https://github.com/iDebugg/pulsemail-frontend">PulseMail Frontend</a></h3>
-      <p align="center">The user-facing frontend for PulseMail.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center"><a href="https://github.com/iDebugg/LMS-CMS-Platform">LMS/CMS Platform</a></h3>
-      <p align="center">An actively developed TypeScript platform project.</p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><a href="https://github.com/iDebugg/My-Portfolio">My Portfolio</a></h3>
-      <p align="center">My personal JavaScript portfolio project.</p>
-    </td>
-  </tr>
-</table>
+An LMS/CMS interface with a public landing page, learner onboarding, a learning area, and an admin area.
 
-## 📊 GitHub Analytics
+- **Stack:** Next.js, React, TypeScript, and GSAP.
+- **Technical focus:** Building distinct learner and administrator experiences within one application.
+- **Status:** Prototype using mock catalogue data and browser storage; authentication is also a prototype.
 
-<div align="center">
-  <img height="170" src="https://github-stats-extended.vercel.app/api?username=iDebugg&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="iDebugg's GitHub statistics" />
-  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=iDebugg&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Most-used languages" />
-</div>
+[Source & setup instructions](https://github.com/iDebugg/LMS-CMS-Platform)
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=iDebugg&theme=github-dark-blue&hide_border=true" alt="iDebugg's GitHub contribution streak" />
-</div>
+## Collaboration
 
-## 🐍 Contribution Activity
+I contribute to **Oikus**, with merged pull requests in its frontend and verifier repositories. This work sits alongside the personal projects featured above.
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/iDebugg/iDebugg/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake" />
-</div>
+[Oikus on GitHub](https://github.com/Oikus)
 
----
+## Core skills
 
-<div align="center">
-  <i>Building, debugging, and improving—one commit at a time.</i>
-</div>
+| Area | Technologies |
+| --- | --- |
+| Frontend | JavaScript, TypeScript, React, Next.js, HTML, CSS, Sass |
+| Backend & data | Node.js, Express, SQLite, REST APIs |
+| Development workflow | Git, GitHub, pull requests, Vite |
+
+**Currently learning:** Python and deeper full-stack development practices.
+
+## Let's connect
+
+I'm interested in opportunities to build useful web products, contribute to a team, and grow as a developer. For frontend or full-stack roles, junior positions, and internships, [reach me on LinkedIn](https://www.linkedin.com/in/victor-aderibigbe-a5a9b2279/).
